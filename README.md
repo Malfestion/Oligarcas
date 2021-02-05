@@ -1,4 +1,4 @@
-<center><img src="./media/logo.svg"></center>  
+<center><img src="./media/logo/logo.svg"></center>  
 
 ## Informacion General:
 Juego de mesa al estilo monopoly, con temática de costa rica. Cuenta con mecánicas interesantes e innovadoras como:
