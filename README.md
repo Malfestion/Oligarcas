@@ -1,12 +1,16 @@
 <center><img src="./media/logo/logo.svg"></center>  
-
+  
+![](./media/logo/icon.svg =50x50)  
+  
 ## Informacion General:
 Juego de mesa al estilo monopoly, con temática de costa rica. Cuenta con mecánicas interesantes e innovadoras como:
 - 3 diferentes maneras de ganar
 - Dominio total de provincias
 - Buenos y malos negocios aleatorios
 - Posibilidad de controlar los medios de comunicación y afectar a otros jugadores
-
+  
+![](./media/logo/icon.svg =50x50)  
+  
 ## Reglas:
 1. Cada jugador tirará los dados para decir el orden en el que se jugará, el numero más alto inicia, y se sigue hacia la derecha.
 2. Cada jugador inicia con una cantidad de dinero de # colones.
@@ -21,6 +25,8 @@ Juego de mesa al estilo monopoly, con temática de costa rica. Cuenta con mecán
   -  Poseer 3 empresas.
   -  Poseer 4 dominios.
   
+![](./media/logo/icon.svg =50x50)  
+    
 ## Instrucciones para desarrollo:
 - Instalar Python3
 ```console
@@ -35,6 +41,9 @@ Juego de mesa al estilo monopoly, con temática de costa rica. Cuenta con mecán
  foo@bar:~$ pip3 install numpy
  ```
  - Se recomienda utilizar un editor como VSCode, atom, o un IDE de Brainstorm.
+   
+![](./media/logo/icon.svg =50x50)  
+  
 ## Tecnologias utilizadas:
 - Python3(necesita estar instalado)
 
