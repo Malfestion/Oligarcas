@@ -1,5 +1,6 @@
 import random as rd
 import numpy as np
+import pygame as pg
 from Jugador import jugador
 from Negocio import Negocio
 from Propiedad import Propiedad
