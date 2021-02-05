@@ -1,4 +1,4 @@
-<center><img src="./media/transparent.png"></center>  
+<center><img src="./media/logo.png"></center>  
 
 ## Informacion General:
 Juego de mesa estilo monopoly ubicado en costa rica, con mecanicas interesantes como:
