@@ -1,6 +1,5 @@
 import random as rd
 import numpy as np
-import pygame as pg
 from Jugador import jugador
 from Negocio import Negocio
 from Propiedad import Propiedad
@@ -32,14 +31,3 @@ class Tablero:
     def init_negocios(self):
         return 0
     
-    
-
-
- 
-
-def main():
-    return 0
-
-
-if __name__ == "__main__":
-   main()
