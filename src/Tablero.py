@@ -1,12 +1,10 @@
 import random as rd
 import numpy as np
-import pygame as pg
 from Jugador import jugador
 from Negocio import Negocio
 from Propiedad import Propiedad
 import Opciones
 Opciones.init()
-
 BUEN_NEGOCIO=np.empty(Opciones.MAL_NEGOCIO, dtype=object)
 MAL_NEGOCIO=np.empty(Opciones.BUEN_NEGOCIO, dtype=object)
 
@@ -32,14 +30,6 @@ class Tablero:
     def init_negocios(self):
         return 0
     
+def run_game():
+    print("PENDIENTE: iniciar el juego")
     
-
-
- 
-
-def main():
-    return 0
-
-
-if __name__ == "__main__":
-   main()

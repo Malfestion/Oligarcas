@@ -28,3 +28,6 @@ def init():
     #Cantidad de propiedades para tener dominio
     global DOMINIOS
     DOMINIOS={5,3,2,3,2,2,2}
+    global cantidad_jugadores
+    cantidad_jugadores=2
+    print("se inician las opciones correctamente")
