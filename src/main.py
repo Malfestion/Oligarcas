@@ -1,6 +1,6 @@
 import pygame
 import sys
-import Tablero
+from Tablero import Tablero
 import Opciones
 from pygame.locals import *
 import tkinter
@@ -13,8 +13,11 @@ RED = (255, 0, 0)
 YELLOW = (255, 255, 0)
 W = root.winfo_screenwidth()
 H = root.winfo_screenheight()
-
-
+tablero=Tablero()
+def init():
+    tablero.init_data()
+    tablero.init_negocios()
+    tablero.init_propiedades()
 def input_box():
     screen = pygame.display.set_mode((W, H))
     font = pygame.font.SysFont('arial', 40)
@@ -79,7 +82,7 @@ def input_box():
 
 def game():
     input_box()
-    Tablero.run_game()
+    tablero.run_game()
 
 def reglas():
     mainClock = pygame.time.Clock()
@@ -539,6 +542,7 @@ def menu():
 
 def main():
     pygame.init()
+    init()
     menu()
  
 main()
