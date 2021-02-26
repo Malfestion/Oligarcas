@@ -1,43 +1,43 @@
-,,Rango,Local Costo,Local Ganan,Condo Costo,Condo Ganan
-Pococi,50,D,200,100,500,250
-Siquirres,50,D,200,100,500,250
-Limon,50,D,200,100,500,250
-Puntarenas,100,D,300,150,600,300
-Buenos Aires,50,D,200,100,500,250
-Esparze,150,D,350,200,800,400
-Liberia,100,D,300,150,600,300
-Santa Cruz,50,D,200,100,500,250
-Nicoya,100,D,300,150,600,300
-Cañas,50,D,200,100,500,250
-Heredia,300,C,1200,1200,1800,1800
-Barva,200,D,400,200,900,450
-S.Domingo,250,C,1000,1000,1300,1300
-Belén,350,B,1950,3000,2500,3700
-Flores,200,D,400,200,900,450
-Turrialba,150,D,350,200,800,400
-La Unión,250,C,1000,1000,1300,1300
-Cartago,150,D,350,200,800,400
-Paraiso,150,D,350,200,800,400
-Alajuela,200,D,400,200,900,450
-San Carlos,100,D,300,150,600,300
-Orotina,150,D,350,200,800,400
-San Ramón,100,D,300,150,600,300
-Grecia,150,D,350,200,800,400
-Atenas,150,D,350,200,800,400
-San José,200,D,400,200,900,450
-Pérez Zeledón,100,D,300,150,600,300
-Curridabat,300,C,1200,1200,1800,1800
-Tibas,200,D,400,200,900,450
-Coronado,250,C,1000,1000,1300,1300
-Moravia,300,C,1200,1200,1800,1800
-Ezcasú,400,B,2700,4000,3200,4800
-M.Oca,350,B,1950,3000,2500,3700
-Santa Ana,400,B,2700,4000,3200,4800
-Puriscal,150,D,350,200,800,400
-Dos Pinos,5400,A,8000,,,
-Fifco,5200,A,7300,,,
-Recope,5800,A,8700,,,
-ICE,5000,A,7500,,,
-BCR,6000,A,9000,,,
-Teletica,1500,A,50,,,
-La Nación,1500,A,50,,,
+Nombre,Precio,Rango,Local_Costo,Local_Ganan,Condo_Costo,Condo_Ganan,Provincia
+Pococi,50,D,200,100,500,250,Limon
+Siquirres,50,D,200,100,500,250,Limon
+Limon,50,D,200,100,500,250,Limon
+Puntarenas,100,D,300,150,600,300,Puntarenas
+Buenos Aires,50,D,200,100,500,250,Puntarenas
+Esparza,150,D,350,200,800,400,Puntarenas
+Liberia,100,D,300,150,600,300,Guanacaste
+Santa Cruz,50,D,200,100,500,250,Guanacaste
+Nicoya,100,D,300,150,600,300,Guanacaste
+Canas,50,D,200,100,500,250,Guanacaste
+Heredia,300,C,1200,1200,1800,1800,Heredia
+Barva,200,D,400,200,900,450,Heredia
+S.Domingo,250,C,1000,1000,1300,1300,Heredia
+Belen,350,B,1950,3000,2500,3700,Heredia
+Flores,200,D,400,200,900,450,Heredia
+Turrialba,150,D,350,200,800,400,Heredia
+La Union,250,C,1000,1000,1300,1300,Cartago
+Cartago,150,D,350,200,800,400,Cartago
+Paraiso,150,D,350,200,800,400,Cartago
+Alajuela,200,D,400,200,900,450,Alajuela
+San Carlos,100,D,300,150,600,300,Alajuela
+Orotina,150,D,350,200,800,400,Alajuela
+San Ramon,100,D,300,150,600,300,Alajuela
+Grecia,150,D,350,200,800,400,Alajuela
+Atenas,150,D,350,200,800,400,Alajuela
+San Jose,200,D,400,200,900,450,SanJose
+Perez Zeledon,100,D,300,150,600,300,SanJose
+Curridabat,300,C,1200,1200,1800,1800,SanJose
+Tibas,200,D,400,200,900,450,SanJose
+Coronado,250,C,1000,1000,1300,1300,SanJose
+Moravia,300,C,1200,1200,1800,1800,SanJose
+Escazu,400,B,2700,4000,3200,4800,SanJose
+M.Oca,350,B,1950,3000,2500,3700,SanJose
+Santa Ana,400,B,2700,4000,3200,4800,SanJose
+Puriscal,150,D,350,200,800,400,SanJose
+Dos Pinos,5400,A,8000,Empresa
+Fifco,5200,A,7300,Empresa
+Recope,5800,A,8700,Empresa
+ICE,5000,A,7500,Empresa
+BCR,6000,A,9000,Empresa
+Teletica,1500,A,50,Comunicacion
+La Nacion,1500,A,50,comunicacion
